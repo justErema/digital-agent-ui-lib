@@ -1,7 +1,4 @@
-# Digital Agent UI Components Library
-
-## Documentation
-
+# da-component-lib
 
 ## Project setup
 ```
