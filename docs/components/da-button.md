@@ -9,7 +9,7 @@ Wow! This component is awesome.
 ## Source Code
 
 <SourceCode>
-<<< @/src/components/DaButton/Button.vue
+<<< @/src/components/DaButton/DaButton.vue
 </SourceCode>
 
 ## slots
