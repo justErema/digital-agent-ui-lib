@@ -14,8 +14,13 @@ Wow! This component is awesome.
 
 ## slots
 
-...
+
 
 ## props
 
-...
+### size
+
+* Type: `'xs' | 'sm' | 'md' | 'lg'`
+* Default: `'md'`
+
+Property to set button size.
