@@ -15,7 +15,7 @@
     "email": "just.erema.157@gmail.com",
     "url": "https://github.com/justErema"
   },
-  "version": "0.1.1",
+  "version": "0.1.3",
   "private": false,
   "main": "dist/da-ui-lib.umd.min.js",
   "unpkg": "dist/da-ui-lib.umd.min.js",
