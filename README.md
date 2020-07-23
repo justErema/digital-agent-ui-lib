@@ -1,5 +1,8 @@
 # da-component-lib
 
+## Documentation
+[See documentation](https://digital-agent-ui-library.netlify.app)
+
 ## Project setup
 ```
 npm install
